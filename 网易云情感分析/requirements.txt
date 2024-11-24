@@ -1,0 +1,7 @@
+requests
+pycryptodome
+pandas
+jieba
+wordcloud
+matplotlib
+snownlp
