@@ -4,9 +4,10 @@
 
 ## 项目列表
 
-| 项目     | 介绍 | 地址               |
-|--------|-----------|------------------|
-| 网易云情感分析| 网易云音乐评论可视化展示与情感分析 | [网易云情感分析](https://github.com/Leisure-Xr/LeXiao_Studio/blob/master/%E7%BD%91%E6%98%93%E4%BA%91%E6%83%85%E6%84%9F%E5%88%86%E6%9E%90/README.MD) |
+| 项目      | 介绍 | 地址               |
+|---------|-----------|------------------|
+| 网易云情感分析 | 网易云音乐评论可视化展示与情感分析 | [网易云情感分析](https://github.com/Leisure-Xr/LeXiao_Studio/blob/master/%E7%BD%91%E6%98%93%E4%BA%91%E6%83%85%E6%84%9F%E5%88%86%E6%9E%90/README.MD) |
+| Glider 代理池 | 订阅节点转换为 glider 代理池配置，支持多协议与负载均衡 | [Glider 快速启动指南](https://github.com/Leisure-Xr/glider/blob/main/dev/README.md) |
 
 
 ## 微信公众号(乐小工作室)
